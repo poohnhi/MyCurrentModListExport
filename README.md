@@ -1,5 +1,5 @@
 # MyCurrentModListExport
-[Framework: UI Info Suite 2](github:annosz/uiinfosuite2)
+[Framework: UI Info Suite 2](https://github.com/annosz/uiinfosuite2/releases)
 
 [Framework: Harvest With Scythe](https://www.nexusmods.com/stardewvalley/mods/2731)
 
@@ -17,7 +17,7 @@
 
 [Framework: [CP] Yagisan - Custom NPCs for NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/8174)
 
-[Framework: Best of "The Queen of Sauce"](github:bpendragon/best-of-queen-of-sauce)
+[Framework: Best of "The Queen of Sauce"](https://github.com/bpendragon/best-of-queen-of-sauce/releases)
 
 [Framework: Custom Crafting Stations](https://www.nexusmods.com/stardewvalley/mods/6293)
 
@@ -32,6 +32,8 @@
 [Framework: Train Station](https://www.nexusmods.com/stardewvalley/mods/6183)
 
 [Framework: Fast Forward](https://www.nexusmods.com/stardewvalley/mods/7413)
+
+[Framework: Farmhouse Fixes](https://www.nexusmods.com/stardewvalley/mods/16507)
 
 [Framework: Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/20938)
 
@@ -57,6 +59,8 @@
 
 [Framework: [PFM] Name of you pack]
 
+[Framework: No Fence Decay Redux](https://www.nexusmods.com/stardewvalley/mods/20802)
+
 [Framework: Custom NPC Exclusions](https://www.nexusmods.com/stardewvalley/mods/7089)
 
 [Framework: Destroyable Bushes](https://www.nexusmods.com/stardewvalley/mods/6304)
@@ -65,9 +69,9 @@
 
 [Framework: Farm Type Manager](https://www.nexusmods.com/stardewvalley/mods/3231)
 
-[Framework: Reset Terrain Features for NET 6](github:lake1059/resetterrainfeatures_net6)
+[Framework: Reset Terrain Features for NET 6](https://github.com/lake1059/resetterrainfeatures_net6/releases)
 
-[Framework: Waterproof Items](github:esca-mmc/waterproofitems)
+[Framework: Waterproof Items](https://github.com/esca-mmc/waterproofitems/releases)
 
 [Framework: Activate Sprinklers](https://www.nexusmods.com/stardewvalley/mods/2088)
 
@@ -103,11 +107,15 @@
 
 [Framework: Passable Crops](https://www.nexusmods.com/stardewvalley/mods/15223)
 
+[Framework: Questable Tractor Mod](https://www.nexusmods.com/stardewvalley/mods/20703)
+
 [Framework: FashionSenseOutfits](https://www.nexusmods.com/stardewvalley/mods/18384)
 
 [Framework: Sprinting](https://www.nexusmods.com/stardewvalley/mods/10469)
 
 [Framework: Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
+
+[Framework: Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)
 
 [Framework: CJB Cheats Menu](https://www.nexusmods.com/stardewvalley/mods/4)
 
@@ -120,6 +128,8 @@
 [Framework: Debug Mode](https://www.nexusmods.com/stardewvalley/mods/679)
 
 [Framework: Fast Animations](https://www.nexusmods.com/stardewvalley/mods/1089)
+
+[Framework: Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/7500)
 
 [Framework: Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
 
@@ -153,6 +163,8 @@
 
 [Framework: Profiler](https://www.nexusmods.com/stardewvalley/mods/12135)
 
+[Framework: Calcifer]
+
 [Framework: Content Patcher Animations](https://www.nexusmods.com/stardewvalley/mods/3853)
 
 [Framework: Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098)
@@ -167,9 +179,9 @@
 
 [Framework: Easier Special Orders](https://www.nexusmods.com/stardewvalley/mods/8342)
 
-[Framework: Better Beehouses](github:tlitookilakin/betterbeehouses)
+[Framework: Better Beehouses](https://github.com/tlitookilakin/betterbeehouses/releases)
 
-[Framework: Messy Crops](github:tlitookilakin/messycrops)
+[Framework: Messy Crops](https://github.com/tlitookilakin/messycrops/releases)
 
 [Framework: Better Friendship](https://www.nexusmods.com/stardewvalley/mods/10287)
 
@@ -178,6 +190,8 @@
 [Expansion: Cornucopia - More Crops](https://www.nexusmods.com/stardewvalley/mods/19508)
 
 [Expansion: Cornucopia - More Flowers](https://www.nexusmods.com/stardewvalley/mods/20290)
+
+[Expansion: [CP] 6480's Giant Crops for Better Crops and Foraging](https://www.nexusmods.com/stardewvalley/mods/21126)
 
 [Expansion: 6480's Giant Crops](https://www.nexusmods.com/stardewvalley/mods/5221)
 
@@ -194,6 +208,8 @@
 [Expansion: Elle's Cuter Horses](https://www.nexusmods.com/stardewvalley/mods/20042)
 
 [Expansion: Riazaia's Boar for CP]
+
+[Expansion: [CP] H&W Mixology 101](https://www.nexusmods.com/stardewvalley/mods/18717)
 
 [Expansion: [FTM] Shell Collection - Beach](https://www.nexusmods.com/stardewvalley/mods/)
 
@@ -216,6 +232,8 @@
 [Expansion: [FTM] Mushrooms of Ferngill 1.6](https://www.nexusmods.com/stardewvalley/mods/8828)
 
 [Expansion: [PFM] Mushrooms of Ferngill 1.6](https://www.nexusmods.com/stardewvalley/mods/8828)
+
+[Expansion: Atelier Wildflour Beverages Pack](https://www.nexusmods.com/stardewvalley/mods/15609)
 
 [Expansion: Atelier Wildflour Coffee Pack](https://www.nexusmods.com/stardewvalley/mods/14719)
 
@@ -240,6 +258,8 @@
 [Expansion: Unique Winter Star SVE](https://www.nexusmods.com/stardewvalley/mods/14824)
 
 [Expansion: [CP] Atra's Dialogue Expansion](https://www.nexusmods.com/stardewvalley/mods/1)
+
+[Expansion: Demetrius Visits Farm Cave Redux](https://www.nexusmods.com/stardewvalley/mods/17575)
 
 [Expansion: Better Winter Star Gifts](https://www.nexusmods.com/stardewvalley/mods/14994)
 
@@ -361,7 +381,9 @@
 
 [Expansion: NPC Katrielle](https://www.nexusmods.com/stardewvalley/mods/16978)
 
-[Expansion: Leilani](https://www.nexusmods.com/stardewvalley/mods/9375)
+[Expansion: Lunna - Astray in StardewValley](https://www.nexusmods.com/stardewvalley/mods/6626)
+
+[Expansion: LASV Forage](https://www.nexusmods.com/stardewvalley/mods/1)
 
 [Expansion: NPC Mr Ginger](https://www.nexusmods.com/stardewvalley/mods/5295)
 
@@ -390,6 +412,8 @@
 [Expansion: East Scarp NPCs](https://www.nexusmods.com/stardewvalley/mods/)
 
 [Expansion: Forage Settings East Scarp](https://www.nexusmods.com/stardewvalley/mods/)
+
+[Expansion: [CP] Castle Point]
 
 [Expansion: A New Dream 2.0](https://www.nexusmods.com/stardewvalley/mods/20295)
 
@@ -423,9 +447,13 @@
 
 [Expansion: Lavril - East Scarp NPC (King's Raid)](https://www.nexusmods.com/stardewvalley/mods/10016)
 
+[Expansion: Metalcore Goes Cottagecore]
+
 [Expansion: Clown's Squeaky Tools](https://www.nexusmods.com/stardewvalley/mods/00000)
 
 [Expansion: Settling Waters 2.0](https://www.nexusmods.com/stardewvalley/mods/)
+
+[Expansion: Emeritus & Book [CC]](https://www.nexusmods.com/stardewvalley/mods/)
 
 [Expansion: Never Ending Adventure & Circle of Thorns [CP]](https://www.nexusmods.com/stardewvalley/mods/12369)
 
@@ -456,6 +484,8 @@
 [Portraits And Animated Sprites: Axell's Alternate Lady Sheba Portraits](https://www.nexusmods.com/stardewvalley/mods/18467)
 
 [Portraits And Animated Sprites: Axell's Alternate Mr. Ginger Portraits](https://www.nexusmods.com/stardewvalley/mods/10582)
+
+[Portraits And Animated Sprites: Alternate Dusty Portraits]
 
 [Portraits And Animated Sprites: Animated East Scarp Fish](https://www.nexusmods.com/stardewvalley/mods/10913)
 
@@ -495,6 +525,82 @@
 
 [Portraits And Animated Sprites: Unofficial Rigeside Village Seasonal Outfits - Ysabelle]
 
+[Portraits And Animated Sprites: Luo Li's Cute Tops, Skirts, and Hats](https://www.nexusmods.com/stardewvalley/mods/15266)
+
+[Portraits And Animated Sprites: [FS] Luoli's FS Hair Pack1]
+
+[Portraits And Animated Sprites: [FS] Luoli's FS Hair Pack2]
+
+[Portraits And Animated Sprites: [FS] Luoli's FS Hair Pack3]
+
+[Portraits And Animated Sprites: [FS] Luoli Happy Skirt Set3]
+
+[Portraits And Animated Sprites: [FS] Luoli Happy Skirt Set5]
+
+[Portraits And Animated Sprites: Shardust's Animated Hairstyles for Fashion Sense](https://www.nexusmods.com/stardewvalley/mods/10294)
+
+[Portraits And Animated Sprites: [FS] WS78 Flower Dance Pack](https://www.nexusmods.com/stardewvalley/mods/16945)
+
+[Portraits And Animated Sprites: [FS] WS78 Wedding Pack](https://www.nexusmods.com/stardewvalley/mods/18376)
+
+[Portraits And Animated Sprites: Flowery Straw Hat](https://www.nexusmods.com/stardewvalley/mods/6210)
+
+[Portraits And Animated Sprites: Hats Won't Mess Up Hair](https://www.nexusmods.com/stardewvalley/mods/2847)
+
+[Portraits And Animated Sprites: [FS] Asters Dyeable Wedding dresses](https://www.nexusmods.com/stardewvalley/mods/12492)
+
+[Portraits And Animated Sprites: Bare Feet for Fashion Sense ]
+
+[Portraits And Animated Sprites: CRABBIT'S NEW HAIR](https://www.nexusmods.com/stardewvalley/mods/17623)
+
+[Portraits And Animated Sprites: Daily hairstyle�1](https://www.nexusmods.com/stardewvalley/mods/17702)
+
+[Portraits And Animated Sprites: Example Fashion Sense Pack]
+
+[Portraits And Animated Sprites: [FS] Kawaii Hats](https://www.nexusmods.com/stardewvalley/mods/4349)
+
+[Portraits And Animated Sprites: [FS] Korokke's Uniforms Pack](https://www.nexusmods.com/stardewvalley/mods/8718)
+
+[Portraits And Animated Sprites: Kyuya's accessories Pack](https://www.nexusmods.com/stardewvalley/mods/12107)
+
+[Portraits And Animated Sprites: Kyuya's clothes pack-1](https://www.nexusmods.com/stardewvalley/mods/17716)
+
+[Portraits And Animated Sprites: Kyuya's hairstyles pack](https://www.nexusmods.com/stardewvalley/mods/11724)
+
+[Portraits And Animated Sprites: Kyuya's hats pack](https://www.nexusmods.com/stardewvalley/mods/11780)
+
+[Portraits And Animated Sprites: [FS] Lamron's Oversized Sleeves](https://www.nexusmods.com/stardewvalley/mods/15610)
+
+[Portraits And Animated Sprites: [FS] Liangchen's shirt packet](https://www.nexusmods.com/stardewvalley/mods/8718)
+
+[Portraits And Animated Sprites: [FS] Crocs]
+
+[Portraits And Animated Sprites: Hats and Horns](https://www.nexusmods.com/stardewvalley/mods/17405)
+
+[Portraits And Animated Sprites: Rino's Clothes#1](https://www.nexusmods.com/stardewvalley/mods/14065)
+
+[Portraits And Animated Sprites: < RURAL COMESTICS <](https://www.nexusmods.com/stardewvalley/mods/10295)
+
+[Portraits And Animated Sprites:  = RURAL OUTFITTERS =](https://www.nexusmods.com/stardewvalley/mods/10295)
+
+[Portraits And Animated Sprites: [FS] SailorStyles]
+
+[Portraits And Animated Sprites: [FS] Seasonal Hats](https://www.nexusmods.com/stardewvalley/mods/13682)
+
+[Portraits And Animated Sprites: [FS] The Coquette Collection](https://www.nexusmods.com/stardewvalley/mods/13545)
+
+[Portraits And Animated Sprites: [FS] Wabi's Wardrobe](https://www.nexusmods.com/stardewvalley/mods/11113)
+
+[Portraits And Animated Sprites: [FS] Winter Solstice Hats](https://www.nexusmods.com/stardewvalley/mods/10137)
+
+[Portraits And Animated Sprites: Yomi's Golden Princess Hairstyles](https://www.nexusmods.com/stardewvalley/mods/20581)
+
+[Portraits And Animated Sprites: [FS] Yuriyuri's Hairstyles]
+
+[Portraits And Animated Sprites: Asta cute navy outfit](https://www.nexusmods.com/stardewvalley/mods/0000)
+
+[Portraits And Animated Sprites: Asta Slumber Party Outfit](https://www.nexusmods.com/stardewvalley/mods/0000)
+
 [Tilesheets Recolor And UI: Hot Spring Farmcave](https://www.nexusmods.com/stardewvalley/mods/5849)
 
 [Tilesheets Recolor And UI: Tweakable Meadowlands Farm](https://www.nexusmods.com/stardewvalley/mods/20742)
@@ -508,6 +614,12 @@
 [Tilesheets Recolor And UI: Waterfall Forest 4: FTM Files](https://www.nexusmods.com/stardewvalley/mods/8913)
 
 [Tilesheets Recolor And UI: Skell's Bigger Cellar](https://www.nexusmods.com/stardewvalley/mods/11108)
+
+[Tilesheets Recolor And UI: Ellie's Seasonal Paths & Flooring](https://www.nexusmods.com/stardewvalley/mods/11265)
+
+[Tilesheets Recolor And UI: Vibrant Pastoral for SVE](https://www.nexusmods.com/stardewvalley/mods/7213)
+
+[Tilesheets Recolor And UI: Vibrant Pastoral Recolor](https://www.nexusmods.com/stardewvalley/mods/6367)
 
 [Tilesheets Recolor And UI: Simple Foliage](https://www.nexusmods.com/stardewvalley/mods/20972)
 
@@ -525,6 +637,8 @@
 
 [Tilesheets Recolor And UI: Elle's Town Buildings](https://www.nexusmods.com/stardewvalley/mods/14524)
 
+[Tilesheets Recolor And UI: VPR Temporary Fix for 1.6](https://www.nexusmods.com/stardewvalley/mods/20698)
+
 [Tilesheets Recolor And UI: Skell's Flowery Tools](https://www.nexusmods.com/stardewvalley/mods/11104)
 
 [Tilesheets Recolor And UI: Skell's Flowery Weapons](https://www.nexusmods.com/stardewvalley/mods/11105)
@@ -535,7 +649,9 @@
 
 [Tilesheets Recolor And UI: Better Rings](https://www.nexusmods.com/stardewvalley/mods/8642)
 
-[Tilesheets Recolor And UI: Ellie's Seasonal Paths & Flooring]
+[Tilesheets Recolor And UI: Calm Colors Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/19885)
+
+[Tilesheets Recolor And UI: Fancy Crops and Foraging Retexture](https://www.nexusmods.com/stardewvalley/mods/14070)
 
 [Tilesheets Recolor And UI: Letteas Trinkets Retexture](https://www.nexusmods.com/stardewvalley/mods/21161)
 
@@ -545,13 +661,11 @@
 
 [Tilesheets Recolor And UI: [CP] Seasonal Pet Houses](https://www.nexusmods.com/stardewvalley/mods/19245)
 
+[Tilesheets Recolor And UI: Seasonal Special Order Board Retexture](https://www.nexusmods.com/stardewvalley/mods/14220)
+
 [Tilesheets Recolor And UI: Stardrop Kitchen](https://www.nexusmods.com/stardewvalley/mods/11535)
 
-[Tilesheets Recolor And UI: Vibrant Pastoral for SVE](https://www.nexusmods.com/stardewvalley/mods/7213)
-
-[Tilesheets Recolor And UI: Vibrant Pastoral Recolor](https://www.nexusmods.com/stardewvalley/mods/6367)
-
-[Tilesheets Recolor And UI: VPR Temporary Fix for 1.6](https://www.nexusmods.com/stardewvalley/mods/20698)
+[Tilesheets Recolor And UI: Warp Totems to Magic Book Tomes](https://www.nexusmods.com/stardewvalley/mods/14094)
 
 [Tilesheets Recolor And UI: DaisyNiko's Tilesheets](https://www.nexusmods.com/stardewvalley/mods/4736)
 
@@ -575,205 +689,131 @@
 
 [Tilesheets Recolor And UI: Lavender Dreams UI Recolor](https://www.nexusmods.com/stardewvalley/mods/17323)
 
-[AT or CP Furniture: 6480's Storage Variety](https://www.nexusmods.com/stardewvalley/mods/7807)
+[Tilesheets Recolor And UI: 6480's Storage Variety](https://www.nexusmods.com/stardewvalley/mods/7807)
 
-[AT or CP Furniture: [AT] Bluesea Furniture Set]
+[Tilesheets Recolor And UI: [AT] Bluesea Furniture Set]
 
-[AT or CP Furniture: [AT] Gaming Room Decorations]
+[Tilesheets Recolor And UI: [AT] Gaming Room Decorations]
 
-[AT or CP Furniture: Chest Deco : base](https://www.nexusmods.com/stardewvalley/mods/20384)
+[Tilesheets Recolor And UI: Chest Deco : base](https://www.nexusmods.com/stardewvalley/mods/20384)
 
-[AT or CP Furniture: Chest Deco : animal products](https://www.nexusmods.com/stardewvalley/mods/20384)
+[Tilesheets Recolor And UI: Chest Deco : animal products](https://www.nexusmods.com/stardewvalley/mods/20384)
 
-[AT or CP Furniture: Chest Deco : artisan goods](https://www.nexusmods.com/stardewvalley/mods/20384)
+[Tilesheets Recolor And UI: Chest Deco : artisan goods](https://www.nexusmods.com/stardewvalley/mods/20384)
 
-[AT or CP Furniture: Chest Deco : flowers](https://www.nexusmods.com/stardewvalley/mods/20384)
+[Tilesheets Recolor And UI: Chest Deco : flowers](https://www.nexusmods.com/stardewvalley/mods/20384)
 
-[AT or CP Furniture: Chest Deco : fruits](https://www.nexusmods.com/stardewvalley/mods/20384)
+[Tilesheets Recolor And UI: Chest Deco : fruits](https://www.nexusmods.com/stardewvalley/mods/20384)
 
-[AT or CP Furniture: Chest Deco : vegetables](https://www.nexusmods.com/stardewvalley/mods/20384)
+[Tilesheets Recolor And UI: Chest Deco : vegetables](https://www.nexusmods.com/stardewvalley/mods/20384)
 
-[AT or CP Furniture: Chest Deco : resources](https://www.nexusmods.com/stardewvalley/mods/20384)
+[Tilesheets Recolor And UI: Chest Deco : resources](https://www.nexusmods.com/stardewvalley/mods/20384)
 
-[AT or CP Furniture: Chest Deco : misc](https://www.nexusmods.com/stardewvalley/mods/20384)
+[Tilesheets Recolor And UI: Chest Deco : misc](https://www.nexusmods.com/stardewvalley/mods/20384)
 
-[AT or CP Furniture: H&W Outdoor Furniture Pack for AT](https://www.nexusmods.com/stardewvalley/mods/17488)
+[Tilesheets Recolor And UI: H&W Outdoor Furniture Pack for AT](https://www.nexusmods.com/stardewvalley/mods/17488)
 
-[AT or CP Furniture: [CP] H&W Bathroom Furniture](https://www.nexusmods.com/stardewvalley/mods/17665)
+[Tilesheets Recolor And UI: [CP] H&W Bathroom Furniture](https://www.nexusmods.com/stardewvalley/mods/17665)
 
-[AT or CP Furniture: [CP] H&W Fairy Garden Furniture](https://www.nexusmods.com/stardewvalley/mods/16874)
+[Tilesheets Recolor And UI: [CP] H&W Fairy Garden Furniture](https://www.nexusmods.com/stardewvalley/mods/16874)
 
-[AT or CP Furniture: [CP] H&W Greenhouse Furniture](https://www.nexusmods.com/stardewvalley/mods/17488)
+[Tilesheets Recolor And UI: [CP] H&W Greenhouse Furniture](https://www.nexusmods.com/stardewvalley/mods/17488)
 
-[AT or CP Furniture: [CP] H&W Outdoor Furniture](https://www.nexusmods.com/stardewvalley/mods/16693)
+[Tilesheets Recolor And UI: [CP] H&W Outdoor Furniture](https://www.nexusmods.com/stardewvalley/mods/16693)
 
-[AT or CP Furniture: [AT] Hearth and Home - Walls and Floors](https://www.nexusmods.com/stardewvalley/mods/18478)
+[Tilesheets Recolor And UI: [AT] Hearth and Home - Walls and Floors](https://www.nexusmods.com/stardewvalley/mods/18478)
 
-[AT or CP Furniture: Elle's Seasonal Buildings for AT](https://www.nexusmods.com/stardewvalley/mods/10038)
+[Tilesheets Recolor And UI: Elle's Seasonal Buildings for AT](https://www.nexusmods.com/stardewvalley/mods/10038)
 
-[AT or CP Furniture: Elle's Buildings Craftables](https://www.nexusmods.com/stardewvalley/mods/10038)
+[Tilesheets Recolor And UI: Elle's Buildings Craftables](https://www.nexusmods.com/stardewvalley/mods/10038)
 
-[AT or CP Furniture: [AT] Kedi's Kids Furniture](https://www.moddrop.com/stardew-valley/mod/1063593)
+[Tilesheets Recolor And UI: [AT] Kedi's Kids Furniture](https://www.moddrop.com/stardew-valley/mod/1063593)
 
-[AT or CP Furniture: [AT] Kedi's Pet Furniture](https://www.moddrop.com/stardew-valley/mod/1012480)
+[Tilesheets Recolor And UI: [AT] Kedi's Pet Furniture](https://www.moddrop.com/stardew-valley/mod/1012480)
 
-[AT or CP Furniture: [AT] Ash's Otaku Bedroom Collection](https://www.nexusmods.com/stardewvalley/mods/)
+[Tilesheets Recolor And UI: [AT] Ash's Otaku Bedroom Collection](https://www.nexusmods.com/stardewvalley/mods/)
 
-[AT or CP Furniture: [CP] Magic Furniture](https://www.nexusmods.com/stardewvalley/mods/10142)
+[Tilesheets Recolor And UI: [CP] Magic Furniture](https://www.nexusmods.com/stardewvalley/mods/10142)
 
-[AT or CP Furniture: [MFM] Magic Furniture](https://www.nexusmods.com/stardewvalley/mods/10142)
+[Tilesheets Recolor And UI: [MFM] Magic Furniture](https://www.nexusmods.com/stardewvalley/mods/10142)
 
-[AT or CP Furniture: Bonsai Trees](https://www.nexusmods.com/stardewvalley/mods/9677)
+[Tilesheets Recolor And UI: Bonsai Trees](https://www.nexusmods.com/stardewvalley/mods/9677)
 
-[AT or CP Furniture: Barfyscorpion Matching Kitchens for Asters Build A Kitchen]
+[Tilesheets Recolor And UI: Barfyscorpion Matching Kitchens for Asters Build A Kitchen]
 
-[AT or CP Furniture: AT - Creepy Trees](https://www.nexusmods.com/stardewvalley/mods/14097)
+[Tilesheets Recolor And UI: AT - Creepy Trees](https://www.nexusmods.com/stardewvalley/mods/14097)
 
-[AT or CP Furniture: Flowery Crab Pots for Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/12163)
+[Tilesheets Recolor And UI: Flowery Crab Pots for Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/12163)
 
-[AT or CP Furniture: Divine Decor](https://www.nexusmods.com/stardewvalley/mods/12425)
+[Tilesheets Recolor And UI: Divine Decor](https://www.nexusmods.com/stardewvalley/mods/12425)
 
-[AT or CP Furniture: [AT] DustBeauty's Industrial Furniture](https://www.nexusmods.com/stardewvalley/mods/17656)
+[Tilesheets Recolor And UI: [AT] DustBeauty's Industrial Furniture](https://www.nexusmods.com/stardewvalley/mods/17656)
 
-[AT or CP Furniture: Elle's Cats for AT](https://www.nexusmods.com/stardewvalley/mods/10039)
+[Tilesheets Recolor And UI: Elle's Cats for AT](https://www.nexusmods.com/stardewvalley/mods/10039)
 
-[AT or CP Furniture: AT_GwenCraft_Vp](https://www.nexusmods.com/stardewvalley/mods/13897)
+[Tilesheets Recolor And UI: AT_GwenCraft_Vp](https://www.nexusmods.com/stardewvalley/mods/13897)
 
-[AT or CP Furniture: H&W Greenhouse Furniture Pack](https://www.nexusmods.com/stardewvalley/mods/17488)
+[Tilesheets Recolor And UI: H&W Greenhouse Furniture Pack](https://www.nexusmods.com/stardewvalley/mods/17488)
 
-[AT or CP Furniture: [AT] Hololive Cute Vtubers Plushie]
+[Tilesheets Recolor And UI: [AT] Hololive Cute Vtubers Plushie]
 
-[AT or CP Furniture: [AT] Horse to Pepper Rex](https://www.nexusmods.com/stardewvalley/mods/13766)
+[Tilesheets Recolor And UI: [AT] Horse to Pepper Rex](https://www.nexusmods.com/stardewvalley/mods/13766)
 
-[AT or CP Furniture: [AT] Idaida Furniture Recolor For AT]
+[Tilesheets Recolor And UI: [AT] Idaida Furniture Recolor For AT]
 
-[AT or CP Furniture: [AT] IdaIda's Flooring and Paths](https://www.nexusmods.com/stardewvalley/mods/)
+[Tilesheets Recolor And UI: [AT] IdaIda's Flooring and Paths](https://www.nexusmods.com/stardewvalley/mods/)
 
-[AT or CP Furniture: Kitchens Redone for Asters Build A Kitchen]
+[Tilesheets Recolor And UI: Kitchens Redone for Asters Build A Kitchen]
 
-[AT or CP Furniture: [AT] Lumisteria's Build A Kitchen](https://www.nexusmods.com/stardewvalley/mods/11803)
+[Tilesheets Recolor And UI: [AT] Lumisteria's Build A Kitchen](https://www.nexusmods.com/stardewvalley/mods/11803)
 
-[AT or CP Furniture: AT Lune's Cottage Cycles]
+[Tilesheets Recolor And UI: AT Lune's Cottage Cycles]
 
-[AT or CP Furniture: Lune's Offerings]
+[Tilesheets Recolor And UI: Lune's Offerings]
 
-[AT or CP Furniture: Magical Furniture for Alternative Textures]
+[Tilesheets Recolor And UI: Magical Furniture for Alternative Textures]
 
-[AT or CP Furniture: [AT] Mini Obelisk](https://www.nexusmods.com/stardewvalley/mods/12471)
+[Tilesheets Recolor And UI: [AT] Mini Obelisk](https://www.nexusmods.com/stardewvalley/mods/12471)
 
-[AT or CP Furniture: [AT] Missy's Walls and Floors]
+[Tilesheets Recolor And UI: [AT] Missy's Walls and Floors]
 
-[AT or CP Furniture: [AT] Modern Flatscreen OLED TV](https://www.nexusmods.com/stardewvalley/mods/14246)
+[Tilesheets Recolor And UI: [AT] Modern Flatscreen OLED TV](https://www.nexusmods.com/stardewvalley/mods/14246)
 
-[AT or CP Furniture: [AT] Modern Flatscreen TV](https://www.nexusmods.com/stardewvalley/mods/14246)
+[Tilesheets Recolor And UI: [AT] Modern Flatscreen TV](https://www.nexusmods.com/stardewvalley/mods/14246)
 
-[AT or CP Furniture: [AT] Modern Glass OLED TV](https://www.nexusmods.com/stardewvalley/mods/14246)
+[Tilesheets Recolor And UI: [AT] Modern Glass OLED TV](https://www.nexusmods.com/stardewvalley/mods/14246)
 
-[AT or CP Furniture: [AT] Molamole's Seasonal Mailbox](https://www.nexusmods.com/stardewvalley/mods/20517)
+[Tilesheets Recolor And UI: [AT] Molamole's Seasonal Mailbox](https://www.nexusmods.com/stardewvalley/mods/20517)
 
-[AT or CP Furniture: [AT] Nano's Retro Style Furniture](https://www.nexusmods.com/stardewvalley/mods/16029)
+[Tilesheets Recolor And UI: [AT] Nano's Garden Style Craftables](https://www.nexusmods.com/stardewvalley/mods/16935)
 
-[AT or CP Furniture: [AT] Vanilla NPC Furniture and Wallpaper](https://www.nexusmods.com/stardewvalley/mods/13064)
+[Tilesheets Recolor And UI: [AT] Nano's Retro Style Furniture](https://www.nexusmods.com/stardewvalley/mods/16029)
 
-[AT or CP Furniture: [AT] Oh So Cute! Kitchen Island](https://www.nexusmods.com/stardewvalley/mods/14257)
+[Tilesheets Recolor And UI: [AT] Vanilla NPC Furniture and Wallpaper](https://www.nexusmods.com/stardewvalley/mods/13064)
 
-[AT or CP Furniture: Prophet's Bed Retexture for AT unofficial](https://www.nexusmods.com/stardewvalley/mods/14207)
+[Tilesheets Recolor And UI: [AT] Oh So Cute! Kitchen Island](https://www.nexusmods.com/stardewvalley/mods/14257)
 
-[AT or CP Furniture: Rosy cottage farmhouse](https://www.nexusmods.com/stardewvalley/mods/10656)
+[Tilesheets Recolor And UI: Prophet's Bed Retexture for AT unofficial](https://www.nexusmods.com/stardewvalley/mods/14207)
 
-[AT or CP Furniture: [AT] Strange Chests]
+[Tilesheets Recolor And UI: Rosy cottage farmhouse](https://www.nexusmods.com/stardewvalley/mods/10656)
 
-[AT or CP Furniture: Void's weird Wonders -  Furniture](https://www.nexusmods.com/stardewvalley/mods/14252)
+[Tilesheets Recolor And UI: [AT] Sanrio Plushies](https://www.nexusmods.com/stardewvalley/mods/13622)
 
-[AT or CP Furniture: [AT] Void's weird Wonders - Wallpapers and Floors](https://www.nexusmods.com/stardewvalley/mods/14147)
+[Tilesheets Recolor And UI: [AT] Strange Chests]
 
-[AT or CP Furniture: [AT] K10_FTW's Wainscoting Walls and Floors](https://www.nexusmods.com/stardewvalley/mods/9869)
+[Tilesheets Recolor And UI: Void's weird Wonders -  Furniture](https://www.nexusmods.com/stardewvalley/mods/14252)
 
-[AT or CP Furniture: [AT] Warm Cozy Fireplaces]
+[Tilesheets Recolor And UI: [AT] Void's weird Wonders - Wallpapers and Floors](https://www.nexusmods.com/stardewvalley/mods/14147)
 
-[AT or CP Furniture: [AT] West Elm Furniture by Atlas](https://www.nexusmods.com/stardewvalley/mods/14644)
+[Tilesheets Recolor And UI: [AT] K10_FTW's Wainscoting Walls and Floors](https://www.nexusmods.com/stardewvalley/mods/9869)
 
-[AT or CP Furniture: Grace's Beds (AT)]
+[Tilesheets Recolor And UI: [AT] Warm Cozy Fireplaces]
 
-[AT or CP Furniture: Grace's Light Birch Beds (AT)]
+[Tilesheets Recolor And UI: [AT] West Elm Furniture by Atlas](https://www.nexusmods.com/stardewvalley/mods/14644)
 
-[AT or CP Furniture: Grace's Plum Mahogany Beds (AT)]
+[Tilesheets Recolor And UI: Grace's Beds (AT)]
 
-[Fashion Sense: Luo Li's Cute Tops, Skirts, and Hats](https://www.nexusmods.com/stardewvalley/mods/15266)
+[Tilesheets Recolor And UI: Grace's Light Birch Beds (AT)]
 
-[Fashion Sense: [FS] Luoli's FS Hair Pack1]
-
-[Fashion Sense: [FS] Luoli's FS Hair Pack2]
-
-[Fashion Sense: [FS] Luoli's FS Hair Pack3]
-
-[Fashion Sense: [FS] Luoli Happy Skirt Set3]
-
-[Fashion Sense: [FS] Luoli Happy Skirt Set5]
-
-[Fashion Sense: Shardust's Animated Hairstyles for Fashion Sense](https://www.nexusmods.com/stardewvalley/mods/10294)
-
-[Fashion Sense: [FS] WS78 Flower Dance Pack](https://www.nexusmods.com/stardewvalley/mods/16945)
-
-[Fashion Sense: [FS] WS78 Wedding Pack](https://www.nexusmods.com/stardewvalley/mods/18376)
-
-[Fashion Sense: Flowery Straw Hat](https://www.nexusmods.com/stardewvalley/mods/6210)
-
-[Fashion Sense: Hats Won't Mess Up Hair](https://www.nexusmods.com/stardewvalley/mods/2847)
-
-[Fashion Sense: [FS] Asters Dyeable Wedding dresses](https://www.nexusmods.com/stardewvalley/mods/12492)
-
-[Fashion Sense: Bare Feet for Fashion Sense ]
-
-[Fashion Sense: CRABBIT'S NEW HAIR](https://www.nexusmods.com/stardewvalley/mods/17623)
-
-[Fashion Sense: Daily hairstyle�1](https://www.nexusmods.com/stardewvalley/mods/17702)
-
-[Fashion Sense: Example Fashion Sense Pack]
-
-[Fashion Sense: [FS] Kawaii Hats](https://www.nexusmods.com/stardewvalley/mods/4349)
-
-[Fashion Sense: [FS] Korokke's Uniforms Pack](https://www.nexusmods.com/stardewvalley/mods/8718)
-
-[Fashion Sense: Kyuya's accessories Pack](https://www.nexusmods.com/stardewvalley/mods/12107)
-
-[Fashion Sense: Kyuya's clothes pack-1](https://www.nexusmods.com/stardewvalley/mods/17716)
-
-[Fashion Sense: Kyuya's hairstyles pack](https://www.nexusmods.com/stardewvalley/mods/11724)
-
-[Fashion Sense: Kyuya's hats pack](https://www.nexusmods.com/stardewvalley/mods/11780)
-
-[Fashion Sense: [FS] Lamron's Oversized Sleeves](https://www.nexusmods.com/stardewvalley/mods/15610)
-
-[Fashion Sense: [FS] Liangchen's shirt packet](https://www.nexusmods.com/stardewvalley/mods/8718)
-
-[Fashion Sense: [FS] Crocs]
-
-[Fashion Sense: Hats and Horns](https://www.nexusmods.com/stardewvalley/mods/17405)
-
-[Fashion Sense: Rino's Clothes#1](https://www.nexusmods.com/stardewvalley/mods/14065)
-
-[Fashion Sense: < RURAL COMESTICS <](https://www.nexusmods.com/stardewvalley/mods/10295)
-
-[Fashion Sense:  = RURAL OUTFITTERS =](https://www.nexusmods.com/stardewvalley/mods/10295)
-
-[Fashion Sense: [FS] SailorStyles]
-
-[Fashion Sense: [FS] Seasonal Hats](https://www.nexusmods.com/stardewvalley/mods/13682)
-
-[Fashion Sense: [FS] The Coquette Collection](https://www.nexusmods.com/stardewvalley/mods/13545)
-
-[Fashion Sense: [FS] Wabi's Wardrobe](https://www.nexusmods.com/stardewvalley/mods/11113)
-
-[Fashion Sense: [FS] Winter Solstice Hats](https://www.nexusmods.com/stardewvalley/mods/10137)
-
-[Fashion Sense: Yomi's Golden Princess Hairstyles](https://www.nexusmods.com/stardewvalley/mods/20581)
-
-[Fashion Sense: [FS] Yuriyuri's Hairstyles]
-
-[Fashion Sense: Asta cute navy outfit](https://www.nexusmods.com/stardewvalley/mods/0000)
-
-[Fashion Sense: Asta Slumber Party Outfit](https://www.nexusmods.com/stardewvalley/mods/0000)
-
-[Fashion Sense: [FS]Clothes]
+[Tilesheets Recolor And UI: Grace's Plum Mahogany Beds (AT)]
 
