@@ -2,12 +2,12 @@ import os, json, glob, re
 import pandas as pd
 from pathlib import Path
 import json5
-b = open("G:\Steam\steamapps\common\Stardew Valley\Mods\modlist.md", "w")
-path_to_json = 'G:\Steam\steamapps\common\Stardew Valley\Mods'
+b = open("C:\SteamLibrary\steamapps\common\Stardew Valley\Mods\modlist.md", "w")
+path_to_json = 'C:\SteamLibrary\steamapps\common\Stardew Valley\Mods'
 string_pattern = path_to_json + '\**\*' + "*manifest.json*"
 data2 = {}
 
-for item in glob.iglob('G:\Steam\steamapps\common\Stardew Valley\Mods/**/*manifest.json', recursive=True):
+for item in glob.iglob('C:\SteamLibrary\steamapps\common\Stardew Valley\Mods/**/*manifest.json', recursive=True):
     #print("Item:", item)
     folder_type = ""
     if 'Core1.6' in item:
